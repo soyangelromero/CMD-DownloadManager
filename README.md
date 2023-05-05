@@ -13,7 +13,7 @@ git clone https://github.com/soyangelromero/CMD-DownloadManager-V1.git
 Una vez que hayas clonado el repositorio, debes abrir la terminal en la carpeta donde se encuentra el archivo `CMD-DownloadManager-V1.py`. A partir de ahí, puedes usar el gestor de descargas con los siguientes comandos:
 
 ```sh
-python CMD-DownloadManager-V1.py
+python CMD-DownloadManager.py
 ```
 
 
