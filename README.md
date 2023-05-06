@@ -1,13 +1,13 @@
-# CMD-DownloadManager-V1
+# CMD-DownloadManager
 
-CMD-DownloadManager-V1 es un gestor de descargas de línea de comandos que te permite descargar archivos de la web de manera rápida y sencilla.
+CMD-DownloadManager es un gestor de descargas de línea de comandos que te permite descargar archivos de la web de manera rápida y sencilla.
 
-## Cómo usar CMD-DownloadManager-V1
+## Cómo usar CMD-DownloadManager
 
-Para utilizar CMD-DownloadManager-V1, primero debes clonar este repositorio en tu computadora. Puedes hacerlo con el siguiente comando:
+Para utilizar CMD-DownloadManager, primero debes clonar este repositorio en tu computadora. Puedes hacerlo con el siguiente comando:
 
 ```sh
-git clone https://github.com/soyangelromero/CMD-DownloadManager-V1.git
+git clone https://github.com/soyangelromero/CMD-DownloadManager.git
 ```
 
 Una vez que hayas clonado el repositorio, debes abrir la terminal en la carpeta donde se encuentra el archivo `CMD-DownloadManager-V1.py`. A partir de ahí, puedes usar el gestor de descargas con los siguientes comandos:
