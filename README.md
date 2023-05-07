@@ -15,7 +15,7 @@ Una vez que hayas clonado el repositorio, debes abrir la terminal en la carpeta 
 ```sh
 python CMD-DownloadManager.py
 ```
-
+Después de ejecutarlo el programa te guiará en el proceso de descarga.
 
 
 
